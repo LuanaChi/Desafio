@@ -9,3 +9,15 @@ Alguns comandos do Git e do GitHub para lembrar:
 •	git push origin
 •	git remote add origin
 •	git remote -v
+
+Criando repositórios:
+1 - Abrir o git bash
+2 - cd (pasta desejada)/
+3 - mkdir (nome do repsitório)
+4 - cd (nome do repsitório)
+
+
+Conflitos de versões de códigos no github.com
+
+•	Baixar a versão mais recente (de outro usuário) + juntar com sua nova versão, e resolver
+manualmente o problema nos códigos que estiverem em conflito.
