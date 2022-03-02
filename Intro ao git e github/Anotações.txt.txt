@@ -1,0 +1,11 @@
+Alguns comandos do Git e do GitHub para lembrar:
+•	Git init
+•	Git add * / git add .
+•	Git commit
+•	Git status
+•	mv
+•	git clone (link)
+•	git pull origin
+•	git push origin
+•	git remote add origin
+•	git remote -v
