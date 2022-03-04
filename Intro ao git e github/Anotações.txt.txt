@@ -21,3 +21,4 @@ Conflitos de versões de códigos no github.com
 
 •	Baixar a versão mais recente (de outro usuário) + juntar com sua nova versão, e resolver
 manualmente o problema nos códigos que estiverem em conflito.
+ oi
